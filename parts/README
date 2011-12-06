@@ -1,0 +1,51 @@
+PCB:
+
+The PCB can be sourced from ExpressPCB.  
+
+The "ProtoPro" service gives you a 2 sided board with soldermask and 
+silkscreening.  4 boards will cost just under $200.  
+
+The "Standard" service gives you a perfectly functional 2 sided board with no 
+soldermasks or silkscreening.  2 boards will cost about $100.
+
+If I get enough interest to justify the order, I'll make boards available
+for $40 each.
+
+Instructions: 
+
+- Download their software from http://www.expresspcb.com/ if you don't already 
+have it.
+- Open the ./PCB/music_maker.sch file
+- From the 'Layout' menu, select "Compute Board Cost" to see your options
+  and then "Order Boards via the Internet" to order.
+
+
+ENCLOSURE:
+
+The front and back panels of the acrylic enclosure can be sourced from Pololu. 
+It should cost around $40.
+
+Instructions:
+
+- Go to http://www.pololu.com/catalog/product/749 and click "Request a Quote"
+- Upload the ./parts/music_maker_panels.dxf file, fill in a quantity and
+  any special instructions, select a material, and wait for them to email you 
+  a quote.  You can place the order at that point.
+
+
+PARTS: 
+
+I'm still working on the parts lists.
+
+The electronics are listed in the Radio_Shack_BOM.pdf file. 
+
+Source the standoffs and hardware from your favorite vendor.
+ - 4x 2" x 0.25" OD Round standoffs, female-female, 8-32
+ - 4x 3/8" x 0.25" OD Hex standoffs, female-male, 6-32
+ - 4x 6-32 machine screws
+ - 4x 6-32 nuts
+ - 8x 8-32 machine screws
+ - 2x 4-40 machine screws
+ - 2x 4-40 nuts
+
+

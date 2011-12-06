@@ -1,0 +1,14 @@
+These files are the plans for the "Radio Shack Music Maker" in my post on PopSci:
+
+http://www.popsci.com/diy/article/2011-11/sponsored-post-radioshack-music-maker-diy-project
+
+./CAD The Alibre 3D model for the enclosure.
+
+./PCB The Express PCB files - schematic and board layout.
+
+./schematic The schematic.
+
+./parts Information for sourcing parts.
+
+./images Just what you'd expect.
+
