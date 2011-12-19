@@ -14,7 +14,7 @@ Instructions:
 
 - Download their software from http://www.expresspcb.com/ if you don't already 
 have it.
-- Open the ./PCB/music_maker.sch file
+- Open the ./PCB/music_maker.pcb file
 - From the 'Layout' menu, select "Compute Board Cost" to see your options
   and then "Order Boards via the Internet" to order.
 
